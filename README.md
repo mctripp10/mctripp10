@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on optimizing my current repos
-- 🌱 I’m currently learning OpenGL and C++
+- 🛠️ I’m currently working on optimizing my current repos
+- 🌱 I’m learning OpenGL and C++ at the moment
 - 📫 How to reach me: michaelctripp@gmail.com
 - ⚡ Fun fact: I have an origami instagram @mc_fold

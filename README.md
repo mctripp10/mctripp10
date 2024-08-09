@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🛠️ I’m currently working on optimizing my public repos
+- 🛠️ I’m currently developing my own 3D chess using OpenGL
 - 🌱 I’m learning OpenGL and C++ at the moment
 - 📫 How to reach me: michaelctripp@gmail.com
 - ⚡ Fun fact: I have an origami instagram [@mc_fold](https://www.instagram.com/mc_fold/)

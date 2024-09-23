@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm Michael Tripp
 
-<!--
-**Mctripp10/mctripp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🛠️ I’m currently developing [my own version of 3D chess using OpenGL](https://github.com/mctripp10/3d-chess-opengl)
 - 🌱 I’m learning OpenGL and working on improving my C++ skills
 - 📫 How to reach me: michaelctripp@gmail.com
